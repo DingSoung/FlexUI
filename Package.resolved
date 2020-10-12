@@ -1,0 +1,61 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Extension",
+        "repositoryURL": "https://github.com/DingSoung/Extension",
+        "state": {
+          "branch": "master",
+          "revision": "5082da99fac633b32f9cb68acdb5cff73096fe86",
+          "version": null
+        }
+      },
+      {
+        "package": "FlexLayout",
+        "repositoryURL": "https://github.com/DingSoung/FlexLayout",
+        "state": {
+          "branch": "master",
+          "revision": "02483a525abf451570bb2172fbc1aee423c36d27",
+          "version": null
+        }
+      },
+      {
+        "package": "Graph",
+        "repositoryURL": "https://github.com/DingSoung/Graph",
+        "state": {
+          "branch": "master",
+          "revision": "2aa6d2eefe11c4410e512d637a280a8bb2bb1539",
+          "version": null
+        }
+      },
+      {
+        "package": "Kingfisher",
+        "repositoryURL": "https://github.com/onevcat/Kingfisher.git",
+        "state": {
+          "branch": "master",
+          "revision": "1aa9889e5f7d9d92acda014eea9cdc7338d3d7d6",
+          "version": null
+        }
+      },
+      {
+        "package": "SwiftyMarkdown",
+        "repositoryURL": "https://github.com/SimonFairbairn/SwiftyMarkdown",
+        "state": {
+          "branch": "master",
+          "revision": "5b0a1e76332a633726f9f9a00b4bbd840166bccf",
+          "version": null
+        }
+      },
+      {
+        "package": "YogaKit",
+        "repositoryURL": "https://github.com/DingSoung/yoga",
+        "state": {
+          "branch": "master",
+          "revision": "2e50059ad1b6049ec2df493e389c41438cec2b11",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
