@@ -111,6 +111,14 @@ extension FlexData {
         }
         component.layout.set(layout: layout)
         // TODO: style
+        style.forEach { (key, value) in
+            switch key {
+            case "background-color":
+                component.backgroundColor(.css(value))
+            default:
+                break
+            }
+        }
         _ = component.children(children.map { $0.render() })
         return component
     }
