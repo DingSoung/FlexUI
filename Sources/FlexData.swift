@@ -114,7 +114,9 @@ extension FlexData {
         style.forEach { (key, value) in
             switch key {
             case "background-color":
-                component.backgroundColor(.css(value))
+                if let color: Color = .css(value) {
+                    component.backgroundColor(color)
+                }
             default:
                 break
             }

@@ -6,7 +6,7 @@
         "repositoryURL": "https://github.com/DingSoung/Extension",
         "state": {
           "branch": "master",
-          "revision": "5082da99fac633b32f9cb68acdb5cff73096fe86",
+          "revision": "ab54a7716992e5c5ba8d9949c53dea0b5450f64e",
           "version": null
         }
       },
@@ -15,7 +15,7 @@
         "repositoryURL": "https://github.com/DingSoung/FlexLayout",
         "state": {
           "branch": "master",
-          "revision": "02483a525abf451570bb2172fbc1aee423c36d27",
+          "revision": "d69efdb333080372d8c6bc2a692c3f4afe04bdb9",
           "version": null
         }
       },
@@ -24,7 +24,7 @@
         "repositoryURL": "https://github.com/DingSoung/Graph",
         "state": {
           "branch": "master",
-          "revision": "2aa6d2eefe11c4410e512d637a280a8bb2bb1539",
+          "revision": "fefe4189c278de98082a8c1a2f436e19131d84b9",
           "version": null
         }
       },
@@ -33,7 +33,7 @@
         "repositoryURL": "https://github.com/onevcat/Kingfisher.git",
         "state": {
           "branch": "master",
-          "revision": "1aa9889e5f7d9d92acda014eea9cdc7338d3d7d6",
+          "revision": "2277d9e8166cb7ebea3ee7be4c0819f0ca07842e",
           "version": null
         }
       },
@@ -42,16 +42,16 @@
         "repositoryURL": "https://github.com/SimonFairbairn/SwiftyMarkdown",
         "state": {
           "branch": "master",
-          "revision": "5b0a1e76332a633726f9f9a00b4bbd840166bccf",
+          "revision": "2bbf1213a6f32b9860f6c034a0e99c1e86d18aed",
           "version": null
         }
       },
       {
         "package": "YogaKit",
-        "repositoryURL": "https://github.com/DingSoung/yoga",
+        "repositoryURL": "https://github.com/DingSoung/YogaKit",
         "state": {
           "branch": "master",
-          "revision": "2e50059ad1b6049ec2df493e389c41438cec2b11",
+          "revision": "02174f6385ad99835a1a3bbaaeeaf30f120e2fc6",
           "version": null
         }
       }
