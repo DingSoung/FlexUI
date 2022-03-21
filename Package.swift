@@ -6,7 +6,7 @@ let package = Package(
     name: "FlexUI",
     platforms: [
 //        .macOS(.v10_12),
-        .iOS(.v11),
+        .iOS(.v12),
 //        .tvOS(.v11),
 //        .watchOS(.v2)
     ],
